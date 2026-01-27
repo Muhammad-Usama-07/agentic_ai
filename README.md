@@ -15,3 +15,7 @@
 ### Medical
 
 - Provide authentic inventory details
+
+### Developement
+
+- DevOps: manages servers thourgh tools
