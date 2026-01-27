@@ -11,3 +11,7 @@
 
 - Email sending bot
 - Schedule meeting
+
+### Medical
+
+- Provide authentic inventory details
