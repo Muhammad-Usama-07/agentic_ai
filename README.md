@@ -7,4 +7,6 @@
 
 # Projects
 
+### Automation Assistants
+
 - Email sending bot
