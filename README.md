@@ -10,3 +10,4 @@
 ### Automation Assistants
 
 - Email sending bot
+- Schedule meeting
