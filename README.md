@@ -19,3 +19,7 @@
 ### Developement
 
 - DevOps: manages servers thourgh tools
+
+### Acadmic
+
+- Answer question related to university database
