@@ -15,6 +15,7 @@
 ### Medical
 
 - Provide authentic inventory details
+- Insights from the database
 
 ### Developement
 
@@ -23,3 +24,4 @@
 ### Acadmic
 
 - Answer question related to university database
+
