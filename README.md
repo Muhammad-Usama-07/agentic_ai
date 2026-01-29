@@ -9,6 +9,7 @@
 
 ### Automation Assistants
 
+- Lead Generation
 - Email sending bot
 - Schedule meeting
 
