@@ -26,3 +26,6 @@
 
 - Answer question related to university database
 
+### Agents type 
+
+- Simple Reflex Agent
