@@ -29,3 +29,4 @@
 ### Agents type 
 
 - Simple Reflex Agent
+- Model-Based Reflex Agent
