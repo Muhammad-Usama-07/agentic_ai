@@ -30,3 +30,4 @@
 
 - Simple Reflex Agent
 - Model-Based Reflex Agent
+- Goal-Based Agents
