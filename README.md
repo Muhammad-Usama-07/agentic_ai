@@ -31,3 +31,4 @@
 - Simple Reflex Agent
 - Model-Based Reflex Agent
 - Goal-Based Agents
+- Utility-Based Agent
