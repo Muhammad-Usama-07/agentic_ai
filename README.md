@@ -28,7 +28,9 @@
 
 ### Agents type 
 
-- Simple Reflex Agent
+- Simple Reflex Agent: Acts only on the current situation using condition–action rules.
+Example: A thermostat turns heating on when the temperature is low.
+
 - Model-Based Reflex Agent
 - Goal-Based Agents
 - Utility-Based Agent
