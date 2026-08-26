@@ -31,7 +31,9 @@
 - Simple Reflex Agent: Acts only on the current situation using condition–action rules.
 Example: A thermostat turns heating on when the temperature is low.
 
-- Model-Based Reflex Agent
+- Model-Based Reflex Agent: Maintains an internal model/state of the environment, so it can handle situations where it cannot observe everything directly.
+Example: A robot remembers where obstacles are.
+
 - Goal-Based Agents
 - Utility-Based Agent
 - Learning Agent
