@@ -34,6 +34,9 @@ Example: A thermostat turns heating on when the temperature is low.
 - Model-Based Reflex Agent: Maintains an internal model/state of the environment, so it can handle situations where it cannot observe everything directly.
 Example: A robot remembers where obstacles are.
 
-- Goal-Based Agents
+- Goal-Based Agents: Takes actions to achieve a specific goal.
+Considers possible future actions before deciding.
+Example: GPS finding a route to a destination.
+
 - Utility-Based Agent
 - Learning Agent
