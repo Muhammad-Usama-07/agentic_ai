@@ -38,5 +38,11 @@ Example: A robot remembers where obstacles are.
 Considers possible future actions before deciding.
 Example: GPS finding a route to a destination.
 
-- Utility-Based Agent
+- Utility-Based Agent: Chooses the action that maximizes a utility (satisfaction) function.
+Useful when there are multiple ways to achieve a goal.
+Example:
+
+Self-driving car balancing safety, speed, and fuel efficiency.
+Stock trading AI optimizing profit while managing risk.
+
 - Learning Agent
