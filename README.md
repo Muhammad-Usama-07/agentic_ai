@@ -58,4 +58,5 @@ Example: Recommendation systems (like movie or shopping recommendations) that im
 - Data extractor 
 - Email Sending
 - Order taker
+- Browser automation 
 
