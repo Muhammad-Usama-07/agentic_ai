@@ -60,4 +60,5 @@ Example: Recommendation systems (like movie or shopping recommendations) that im
 - Order taker
 - Browser automation 
 - Data preparation 
+- Train model 
 
