@@ -62,4 +62,4 @@ Example: Recommendation systems (like movie or shopping recommendations) that im
 - Data preparation 
 - Train model 
 - Predictor
-
+- Insights teller 
