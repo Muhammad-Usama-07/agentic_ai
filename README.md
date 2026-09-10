@@ -58,6 +58,7 @@ Example: Recommendation systems (like movie or shopping recommendations) that im
 - Data extractor 
 - Email Sending
 - Order taker
+- AI Travel Planner Agent
 - Browser automation 
 - Data preparation 
 - Train model 
