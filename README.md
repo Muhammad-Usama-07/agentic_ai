@@ -61,7 +61,7 @@ Example: Recommendation systems (like movie or shopping recommendations) that im
 - AI Travel Planner Agent
 - AI Coding Agent
 - AI Sales Agent
-- Personal Study Agent
+- Personal Study Agent: A personal AI agent is like a digital assistant that can understand your goals, remember relevant information, use tools, and take actions for you
 - Personal Task Agent
 - Browser automation 
 - Data preparation 
