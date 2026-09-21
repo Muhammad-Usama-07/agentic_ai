@@ -57,7 +57,8 @@ Example: Recommendation systems (like movie or shopping recommendations) that im
 
 - Data extractor 
 - Email Sending
-- Order taker
+- Order taker: An AI order-taker agent is an AI system that talks to customers, understands what they want to order, checks available options, and sends the final order to a business system.
+
 - AI Travel Planner Agent
 - AI Coding Agent: An AI coding agent is an AI that can do more than just generate code. It can inspect a project, decide what needs to change, edit files, run commands/tests, see errors, and iterate.
 
