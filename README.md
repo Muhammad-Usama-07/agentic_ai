@@ -57,7 +57,8 @@ Example: Recommendation systems (like movie or shopping recommendations) that im
 
 - Data extractor: A data extractor agent in AI is an AI system that automatically finds, understands, and extracts specific information from unstructured data such as PDFs, websites, emails, images, or documents.
 
-- Email Sending
+- Email Sending: An AI email-sending agent is an AI system that can understand a task, decide what email needs to be sent, generate the message, and—when authorized—send it through an email service.
+
 - Order taker: An AI order-taker agent is an AI system that talks to customers, understands what they want to order, checks available options, and sends the final order to a business system.
 
 - AI Travel Planner Agent
