@@ -73,4 +73,7 @@ Example: Recommendation systems (like movie or shopping recommendations) that im
 - Data preparation 
 - Train model 
 - Predictor
-- Insights teller 
+- Insights teller: An AI Data Insights Teller Agent connects to data sources and understands business questions.
+It retrieves and analyzes relevant data to find trends, patterns, and anomalies.
+It converts the results into simple insights, explanations, and visualizations.
+Users can ask follow-up questions, and the agent performs further analysis automatically
