@@ -71,9 +71,11 @@ Example: Recommendation systems (like movie or shopping recommendations) that im
 
 - Browser automation: ability to operate a web browser—open pages, inspect them, click buttons, type into forms, scroll, download files, and verify results—rather than merely generating text.
 
-- Data preparation 
+- Data preparation: A data preparation agent in AI is an AI-powered system that automatically gets raw data ready for analysis, machine learning, or another AI agent.
+
 - Train model 
 - Predictor
+
 - Insights teller: An AI Data Insights Teller Agent connects to data sources and understands business questions.
 It retrieves and analyzes relevant data to find trends, patterns, and anomalies.
 It converts the results into simple insights, explanations, and visualizations.
