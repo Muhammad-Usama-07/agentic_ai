@@ -9,7 +9,8 @@
 
 ### Automation Assistants
 
-- Lead Generation
+- Lead Generation: An AI lead generation agent is an AI system that finds potential customers, researches them, qualifies them, and can sometimes contact them automatically.
+
 - Email sending bot
 - Schedule meeting
 
