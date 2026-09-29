@@ -12,7 +12,8 @@
 - Lead Generation: An AI lead generation agent is an AI system that finds potential customers, researches them, qualifies them, and can sometimes contact them automatically.
 
 - Email sending bot
-- Schedule meeting
+- Schedule meeting: A meeting-scheduling agent is an AI agent that can handle the process of arranging a meeting instead of just telling you how to do it.
+
 
 ### Medical
 
