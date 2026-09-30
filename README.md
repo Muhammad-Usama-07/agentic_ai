@@ -77,6 +77,7 @@ Example: Recommendation systems (like movie or shopping recommendations) that im
 - Data preparation: A data preparation agent in AI is an AI-powered system that automatically gets raw data ready for analysis, machine learning, or another AI agent.
 
 - Train model 
+
 - Predictor
 
 - Insights teller: An AI Data Insights Teller Agent connects to data sources and understands business questions.
