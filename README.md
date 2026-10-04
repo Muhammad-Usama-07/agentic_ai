@@ -13,7 +13,7 @@
 
 
 
-- Schedule meeting: A meeting-scheduling agent is an AI agent that can handle the process of arranging a meeting instead of just telling you how to do it.
+
 
 
 ### Medical
@@ -89,3 +89,5 @@ Example: Recommendation systems (like movie or shopping recommendations) that im
 It retrieves and analyzes relevant data to find trends, patterns, and anomalies.
 It converts the results into simple insights, explanations, and visualizations.
 Users can ask follow-up questions, and the agent performs further analysis automatically
+
+- Schedule meeting: A meeting-scheduling agent is an AI agent that can handle the process of arranging a meeting instead of just telling you how to do it.
