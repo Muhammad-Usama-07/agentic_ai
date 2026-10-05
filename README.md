@@ -9,13 +9,6 @@
 
 ### Automation Assistants
 
-
-
-
-
-
-
-
 ### Medical
 
 - Provide authentic inventory details
