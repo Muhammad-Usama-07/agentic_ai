@@ -18,9 +18,6 @@
 
 - DevOps: manages servers thourgh tools
 
-### Acadmic
-
-- Answer question related to university database
 
 ### Agents type 
 
@@ -50,6 +47,11 @@ Problem generator
 Example: Recommendation systems (like movie or shopping recommendations) that improve based on user preferences.
 
 # Project
+
+### Acadmic
+
+- Answer question related to university database
+
 
 - Data extractor: A data extractor agent in AI is an AI system that automatically finds, understands, and extracts specific information from unstructured data such as PDFs, websites, emails, images, or documents.
 
