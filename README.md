@@ -10,7 +10,7 @@
 
 # Projects
 
-### Automation Assistants
+# Automation Assistants
 
 ### Medical
 
